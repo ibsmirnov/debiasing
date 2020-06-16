@@ -4,5 +4,5 @@ Many important decisions in societies such as school admissions, hiring, or elec
 
 This, however, has the potential to induce changes in representation with respect to other attributes. For the case of two correlated binary attributes we show that quota-based debiasing based on a single attribute can worsen the representation of already underrepresented groups and decrease overall fairness of selection. These results demonstrate the importance of including all relevant attributes in debiasing procedures and that more efforts need to be put into eliminating the root causes of inequalities as purely numerical solutions such as quota-based debiasing might lead to unintended consequences.
 
-[Paper]()
+[Paper](https://arxiv.org/abs/2006.07647)
 [Code](https://github.com/ibsmirnov/debiasing/blob/master/Debiasing%20Paradox.ipynb)
